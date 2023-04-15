@@ -1,0 +1,39 @@
+/* body{
+    background-color: blue;
+} */
+#services-inner {
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+/* .cards{
+   margin: 20px 0px;
+  } */
+#clients-inner {
+  flex-wrap: wrap;
+}
+#navbar {
+  flex-direction: column;
+}
+#logo i {
+  font-size: 25px;
+  color: white;
+}
+#navbar li a {
+  font-size: 1rem;
+}
+#home p {
+  font-size: 20px;
+}
+#home h3 {
+  font-size: 40px;
+}
+.cards p {
+  font-size: 15px;
+}
+#bulk {
+  height: 150px;
+}
+#catering {
+  height: 180px;
+}
