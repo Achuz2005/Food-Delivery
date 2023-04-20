@@ -1,0 +1,65 @@
+/* body{
+    background-color: blue;
+} */
+#services-inner {
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+/* .cards{
+   margin: 20px 0px;
+  } */
+#clients-inner {
+  flex-wrap: wrap;
+}
+#navbar {
+  flex-direction: column;
+}
+#logo i {
+  font-size: 40px;
+  color: white;
+ }
+#logo {
+  padding-bottom: 0px;
+ }
+#navbar li a {
+  font-size: 1rem;
+}
+
+#navbar ul {
+  padding-left: 0px;
+}
+#home p {
+  font-size: 20px;
+}
+#home {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+}
+#home::before{
+ height: 500px;
+}
+#home{
+  height: 470px;
+}
+#home h3 {
+  font-size: 40px;
+}
+.cards p {
+  font-size: 15px;
+}
+#bulk {
+  height: 150px;
+}
+#catering {
+  height: 180px;
+}
+
+#footer-copyright{
+  margin-top: 5px;
+}
+.heading{
+  font-size: 40px;
+}
